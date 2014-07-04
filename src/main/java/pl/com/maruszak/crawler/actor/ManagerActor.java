@@ -3,8 +3,6 @@ package pl.com.maruszak.crawler.actor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import pl.com.maruszak.akka.tutorial.first.Pi.Worker;
-import pl.com.maruszak.crawler.AkkaCrawlerExecutor;
 import pl.com.maruszak.crawler.ImagesStore;
 import pl.com.maruszak.crawler.LinksStore;
 import pl.com.maruszak.crawler.PageRetriverInterface.Page;
