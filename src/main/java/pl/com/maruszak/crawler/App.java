@@ -11,7 +11,7 @@ public class App {
 	public static void main(String[] args) {
 		
 		
-		String initUrl = "http://audiovis.nac.gov.pl";
+		String initUrl = "http://localhost";
 		
 		LinksStore linksStore = new LinksStore();
 		ImagesStore imagesStore = new ImagesStore();
